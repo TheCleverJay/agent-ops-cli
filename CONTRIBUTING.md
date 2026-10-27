@@ -12,7 +12,7 @@ Thanks for helping. This repo stays small, dependency-light, and honest.
 ## Dev setup
 
 ```bash
-git clone https://github.com/YuanAqi/agent-ops-cli.git
+git clone https://github.com/TheCleverJay/agent-ops-cli.git
 cd agent-ops-cli
 # Python packages:
 PYTHONPATH=src python -m pytest tests/ -q   # if pytest installed

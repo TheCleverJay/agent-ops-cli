@@ -12,7 +12,7 @@
 ## 开发
 
 ```bash
-git clone https://github.com/YuanAqi/agent-ops-cli.git
+git clone https://github.com/TheCleverJay/agent-ops-cli.git
 cd agent-ops-cli
 PYTHONPATH=src python tests/test_smoke.py   # HTML 工具箱用 ./tests/smoke.sh
 ./scripts/smoke.sh

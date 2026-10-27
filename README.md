@@ -7,7 +7,7 @@
 
 - English (this file) · [中文](./README.zh-CN.md)
 - License: MIT · Python ≥ 3.10 · **zero runtime deps**
-- GitHub: [`YuanAqi/agent-ops-cli`](https://github.com/YuanAqi/agent-ops-cli)
+- GitHub: [`TheCleverJay/agent-ops-cli`](https://github.com/TheCleverJay/agent-ops-cli)
 
 ## What it does
 
