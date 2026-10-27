@@ -7,11 +7,11 @@
 
 - [English](./README.md) · 中文（本文件）
 - 许可证：MIT · Python ≥ 3.10 · **无第三方运行时依赖**
-- 拟议仓库：[`YuanAqi/agent-ops-cli`](https://github.com/YuanAqi/agent-ops-cli)
+- 仓库：[`YuanAqi/agent-ops-cli`](https://github.com/YuanAqi/agent-ops-cli)
 
-## 为什么值得 Star
+## 做什么
 
-Agent 主机常见死因一样：上下文膨胀、前台 `sleep`/编译卡住整轮对话、排障时把密钥打到日志、例行任务缺少「没事就闭嘴」路径。这是一个 **今天就能跑** 的小工具箱，不是一篇散文。
+自己机器上跑 AI Agent 时，常见问题是：慢命令卡住整轮对话、上下文越来越大、排障时把密钥打进日志。**agent-ops-cli** 是一个本机命令行小工具：估算上下文开销、给慢命令设硬超时并杀掉、脱敏检查环境变量、摘要日志、探测 HTTP 健康、检查例行任务文档是否写全。给运维 Agent 主机的人用——不是交易软件，也不远程操控别人的电脑。
 
 ## 安装 / 运行
 

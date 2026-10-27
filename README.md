@@ -7,11 +7,11 @@
 
 - English (this file) · [中文](./README.zh-CN.md)
 - License: MIT · Python ≥ 3.10 · **zero runtime deps**
-- Proposed GitHub: [`YuanAqi/agent-ops-cli`](https://github.com/YuanAqi/agent-ops-cli)
+- GitHub: [`YuanAqi/agent-ops-cli`](https://github.com/YuanAqi/agent-ops-cli)
 
-## Why star this
+## What it does
 
-Most agent hosts die the same ways: context balloons, a foreground `sleep`/build hangs the chat turn, env secrets get printed while debugging, routines omit a quiet path. This is a **small batteries-included CLI** you can run today — not a blog post.
+When you run AI agents on your own machine, chats often hang on slow commands, context balloons, or secrets leak into logs. **agent-ops-cli** is a small local command-line tool that estimates context size, kills hung commands on a hard timeout, audits environment variables with redaction, digests logs, probes HTTP health, and lints routine docs. For people who operate agent hosts — not a trading or remote-control app.
 
 ## Install / run
 
