@@ -7,7 +7,7 @@
 
 - [English](./README.md) · 中文（本文件）
 - 许可证：MIT · Python ≥ 3.10 · **无第三方运行时依赖**
-- 仓库：[`YuanAqi/agent-ops-cli`](https://github.com/YuanAqi/agent-ops-cli)
+- 仓库：[`TheCleverJay/agent-ops-cli`](https://github.com/TheCleverJay/agent-ops-cli)
 
 ## 做什么
 
